@@ -41,7 +41,7 @@ workshop-github-ai/
 * **gery** → Membuat readme.  
 * **rheza** → Membuat laporan.  
 
-👉 Link GitHub Pages: [Link Github](https://username.github.io/workshop-github-ai)
+👉 Link GitHub Pages: [Link Github](https://aristotless.github.io/workshop-github-2025/)
 
 
 ---
